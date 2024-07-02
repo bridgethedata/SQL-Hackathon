@@ -1,0 +1,3 @@
+In the SQL Hackathon, I tackled various data challenges, showcasing my SQL and data analysis skills. I cleaned and prepared datasets for accuracy and consistency, and wrote optimised SQL queries to extract valuable insights. My efforts included handling large datasets efficiently and using advanced SQL functions for in-depth analysis.
+
+Collaborating effectively with my team, we developed innovative solutions and visualised our findings using SQL-compatible tools. Our submission was notable for its accuracy, efficiency, and creativity. The hackathon was a rewarding experience, enhancing my SQL skills, solving real-world data problems, and connecting with like-minded peers.
